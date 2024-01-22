@@ -1,1 +1,1 @@
-Kindly review the document "*.pdf" to examine my project portfolio, which is stored within this repository.
+Kindly review the document "Project Portfolio_Santosh Barhatte.pdf" to examine my project portfolio stored within this repository.
